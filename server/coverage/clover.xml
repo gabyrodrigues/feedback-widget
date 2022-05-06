@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1651801076560" clover="3.2.0">
-  <project timestamp="1651801076560" name="All files">
+<coverage generated="1651801484404" clover="3.2.0">
+  <project timestamp="1651801484404" name="All files">
     <metrics statements="47" coveredstatements="47" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2" elements="56" coveredelements="56" complexity="0" loc="47" ncloc="47" packages="1" files="1" classes="1"/>
     <file name="submit-feedback-use-case.ts" path="/mnt/c/Users/gabyr/Documents/projects/feedback-widget/server/src/use-cases/submit-feedback-use-case.ts">
       <metrics statements="47" coveredstatements="47" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
